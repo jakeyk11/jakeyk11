@@ -11,7 +11,7 @@
   <!-- TITLE -->
   
   <h2>
-    Jake Kolliari - @jakeyk11
+    Jake Kolliari - jakeyk11
   </h2>
   
   <!-- SOCIAL MEDIA LINKS -->
