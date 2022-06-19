@@ -23,7 +23,7 @@
     <a href="your-website-URL">
       <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="[your-twitter-URL](https://twitter.com/jakeyk11)">
+    <a href="https://twitter.com/_JKDS_">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
