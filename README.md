@@ -38,10 +38,10 @@
 ### About Me
 
 - :airplane: Data Scientist @ BAE Systems.
-- :necktie: Experience of data analysis & visualisation, data service production and defining technology strategy.
+- :necktie: Experience of data analysis & visualisation, data service production and technology project management.
 - :soccer: Passionate about Data Analytics in football.
 - :computer: Python programming and Data Science in spare time.
-- :seedling: Currently learning Tableau, SQL and Reinforcement Learning Algorithms.
+- :seedling: Currently learning MLOps and Reinforcement Learning.
 
 <!-- TECHNICAL SKILLS -->
 ### Languages and Tools
