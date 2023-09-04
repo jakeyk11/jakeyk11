@@ -61,7 +61,10 @@
 </div>
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeyk11)](https://github.com/jakeyk11/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeyk11&size_weight=0.5&count_weight=0.5)
+
+### Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=jakeyk11&show_icons=true&theme=cobalt)
 
 <!---
 jakeyk11/jakeyk11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
