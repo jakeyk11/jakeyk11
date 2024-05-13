@@ -37,9 +37,8 @@
 <!-- ABOUT ME -->
 ### About Me
 
-- :airplane: Data Scientist @ SCFC.
-- :necktie: Experience of data analysis & visualisation, data service production and technology project management.
-- :soccer: Passionate about Data Analytics in football.
+- :soccer: Data Scientist @ SCFC.
+- :necktie: Experience of data analysis & visualisation, data-driven football recruitment and technology project management.
 - :computer: Python programming and Data Science in spare time.
 - :seedling: Currently learning MLOps and Reinforcement Learning.
 
