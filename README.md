@@ -37,7 +37,7 @@
 <!-- ABOUT ME -->
 ### About Me
 
-- :airplane: Data Scientist @ BAE Systems.
+- :airplane: Data Scientist @ SCFC.
 - :necktie: Experience of data analysis & visualisation, data service production and technology project management.
 - :soccer: Passionate about Data Analytics in football.
 - :computer: Python programming and Data Science in spare time.
