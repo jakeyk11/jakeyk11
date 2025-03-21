@@ -40,7 +40,7 @@
 - :soccer: Data Scientist @ SCFC.
 - :necktie: Experience of data analysis & visualisation, data-driven football recruitment and technology project management.
 - :computer: Python programming and Data Science in spare time.
-- :seedling: Currently learning MLOps and Reinforcement Learning.
+- :seedling: Currently learning GraphQL and Reinforcement Learning.
 
 <!-- TECHNICAL SKILLS -->
 ### Languages and Tools
