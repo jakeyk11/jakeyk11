@@ -37,10 +37,9 @@
 <!-- ABOUT ME -->
 ### About Me
 
-- :soccer: Data Scientist @ SCFC.
-- :necktie: Experience of data analysis & visualisation, data-driven football recruitment and technology project management.
-- :computer: Python programming and Data Science in spare time.
-- :seedling: Currently learning GraphQL and Reinforcement Learning.
+- :soccer: Solutions Consultant, Data Specialist @ Hudl.
+- :necktie: Experience of data science & visualisation, data-driven football recruitment and technology project management.
+- :seedling: Currently learning GraphQL and Reinforcement Learning
 
 <!-- TECHNICAL SKILLS -->
 ### Languages and Tools
@@ -52,8 +51,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow " alt="TensorFlow" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB & Simulink" alt="MATLAB & Simulink" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -61,10 +58,8 @@
 </div>
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeyk11&size_weight=0.5&count_weight=0.5)
-
-### Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=jakeyk11&show_icons=true&theme=cobalt)
+### Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=jakeyk11)
 
 <!---
 jakeyk11/jakeyk11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
